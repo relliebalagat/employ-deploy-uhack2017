@@ -1,0 +1,157 @@
+	.navbar{
+		background-color:rgba (250,250,250,0);
+		padding:40px;
+		border-radius:0px;
+	}
+	.navbar-brand{
+		float:none;
+	}
+	.job-finder{
+		font-size:40px !important;
+		text-shadow: 0px 1px #111;
+	}
+	#head{
+		position:relative;
+		top:8px;
+		left:550px;
+	}
+	#search-ic{
+		position:relative;
+		top:-18px;
+		right:20px;
+	}
+	.nav>li>a:focus, .nav>li>a:hover {
+        text-decoration: none;
+        background-color: transparent !important;
+  	}
+  	.footer-text{
+  		font-size:15px;
+  		color:white;
+  	}
+  	.pick-form{
+  		padding-top:30px;
+  	}
+  	.log-in-employee{
+  		padding-top:10px;
+  		margin-bottom:100px;
+  	}
+  	.log-in{
+  		font-size:40px;
+  		background-color:rgba(1,1,1,0.5);
+  		color:white;
+      font-family: 'Nunito', sans-serif;
+  		padding:30px;
+  		padding-right:200px;
+  		padding-left:200px;
+  	}	
+  	.but-emp{
+  		padding:50px;
+  	}
+  	.but-employ{
+  		padding:30px;
+  		font-size:30px;
+  		font-family: 'Open Sans', sans-serif;
+  		border:0;
+  		background-color:rgba(1,1,1,0)
+  	}
+  	.but-employ:hover{
+  		border:1px solid gray;
+  	}
+  	.bg{
+  		background-image: url("Images/bg2.jpg");
+  		height:100%;
+  		background-position: center;
+		background-repeat: no-repeat;
+  	}
+  	#start{
+  		padding-top:40px;
+  	}
+  	.tr1{
+  		background-color:rgba(1,1,1,0.2);
+  		text-shadow: 0px 1px #FFF;
+  	}
+  	.td1{
+  		color:#111;
+  		font-weight:600;
+  		text-shadow: 0px 1px #FFF;
+  		text-align:left;
+  		text-indent:70px;
+  		padding-top:20px;
+  		font-family: 'Open Sans', sans-serif;
+  		font-size:20px;
+  	}
+  	.td2{
+  		text-indent:100px;
+  		padding-top:5px;
+  		font-family: 'Open Sans', sans-serif;
+  	}
+  	.inputs{
+  		border-radius:10px;
+  		padding-left:10px;
+  		font-size:20px;
+  	}
+  	.forgot-pass{
+  		font-size:20px;
+  		padding-top:10px;
+  		padding-left:40px;
+  		padding-right:70px;
+  		font-weight:600;
+  	}
+  	.sub-but{
+  		padding:10px;
+  		padding-left:40px;
+  		padding-right:40px;
+  		font-size:25px;
+  		border:0;
+  		background-color:rgba(1,1,1,0);
+  		font-family: 'Open Sans', sans-serif;
+  		font-weight:800;
+  		text-shadow: 0px 1px #FFF;
+  	}
+  	.sub-but:hover{
+  		border:1px solid white;
+  	}
+		#table-account{
+			width:100%;
+			position:relative;
+			top:400px;
+			left:0;
+		}
+    #table-main{
+      width:100%;
+      position: absolute;
+      bottom:0px;
+      left:0;
+    }
+				.td-t3{
+					width:33%;
+					color:#333;
+					font-size:50px;
+					background-color:rgba(1,1,1,0.2);
+					border-left:1px solid rgba(1,1,1,0.2);
+				}
+				#img-user{
+					position:absolute;
+					left:180px;
+					top:50px;
+				}
+				#user-info{
+          position:relative;
+          top:350px;
+				}
+				#acc-prof{
+					font-size:30px;
+					font-family: 'Nunito', sans-serif;
+					background-color:rgba(1,1,1,0.5);
+					color:white;
+				}
+				.body-prof{
+					font-size:20px;
+					font-family: 'Open Sans', sans-serif;
+					background-color: rgba(1,1,1,0.1);
+				}
+
+				
+
+
+				
